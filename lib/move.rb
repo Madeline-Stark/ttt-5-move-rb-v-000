@@ -14,5 +14,5 @@ end
 
 
 def move(display_board, user_input, X_or_O)
-
+  puts user_input(display_board)
 end
